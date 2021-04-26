@@ -7,7 +7,7 @@ If you want to modify the connector, you'll have to install:
 
 You can then open the solution located in [Braincube.sln](Braincube.sln). You should be able to build immediately.
 
-Command line: use MsBuild
+Command line: use MsBuild, but you have to use the VStudio command prompt for that.
 
 ```
 msbuild -property:Configuration=Release
